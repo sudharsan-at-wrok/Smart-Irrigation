@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "964382089415",
+    "firebase_url": "https://iot-smart-water-meter-19f34-default-rtdb.firebaseio.com",
+    "project_id": "iot-smart-water-meter-19f34",
+    "storage_bucket": "iot-smart-water-meter-19f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964382089415:android:93b1baf37d17d4cde2dee2",
+        "android_client_info": {
+          "package_name": "com.example.iitm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lm8XR3JabplK1JMX7tQQWBOYuO6WONo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
